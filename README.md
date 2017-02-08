@@ -1,0 +1,1 @@
+This project is about detecting vehicles on an image / video using Deep Learning . 
